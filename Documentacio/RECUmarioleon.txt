@@ -1,8 +1,12 @@
+----VERSIO 1----
 git init
-git mkdir Documentacio
+mkdir Documentacio
 git add .
 git status
-git commit -m "Versio1"
+git commit -m "Versio1-1"
 git branch -M main
 git remote add origin https://github.com/Far9554/RECUM5UF2.git
 git push origin main
+(Me equivoque en una cosa y tube que volver a hacer commit el correcto es el Version1-1)
+----VERSIO 2----
+mkdir M5UF2
