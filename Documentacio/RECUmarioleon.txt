@@ -1,0 +1,8 @@
+git init
+git mkdir Documentacio
+git add .
+git status
+git commit -m "Versio1"
+git branch -M main
+git remote add origin https://github.com/Far9554/RECUM5UF2.git
+git push origin main
