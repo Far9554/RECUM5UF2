@@ -8,6 +8,7 @@ git branch -M main
 git remote add origin https://github.com/Far9554/RECUM5UF2.git
 git push origin main
 (Me equivoque en una cosa y tube que volver a hacer commit el correcto es el Version1-1)
+
 ----VERSIO 2----
 mkdir M5UF2
 mv ../DossierGitGitHub.pdf ./M5UF2/
@@ -15,6 +16,7 @@ git add .
 git status
 git commit -m "Versio2"
 git push origin main
+
 ----VERSIO 3----
 mkdir Temaris
 mv ../M5-UF2-Temari.pdf ./Temaris/
@@ -22,3 +24,15 @@ git add .
 git status
 git commit -m "Versio3"
 git push origin main
+
+----VERSIO 4----
+mv ../M6-UF2-Temari.pdf ./Temaris/
+mv ../DAM-M5-UF3-Temari.pdf ./Temaris/
+mv ../DAM-M6-UF3-Temari.pdf ./Temaris/
+mv ../DAM-M6-UF4-Temari.pdf ./Temaris/
+git add .
+git status
+git commit -m "Versio4"
+git push origin main
+
+----VERSIO 5----
