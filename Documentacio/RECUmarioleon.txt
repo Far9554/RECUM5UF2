@@ -10,3 +10,8 @@ git push origin main
 (Me equivoque en una cosa y tube que volver a hacer commit el correcto es el Version1-1)
 ----VERSIO 2----
 mkdir M5UF2
+mv ../DossierGitGitHub.pdf ./M5UF2/DossierGitGitHub.pdf
+git add .
+git status
+git commit -m "Versio2"
+git push origin main
